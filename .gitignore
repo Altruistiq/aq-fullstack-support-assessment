@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+lib/*.json
+.nyc_output
+coverage
+.env
+package-lock.json
